@@ -1,0 +1,11 @@
+<suite name="Suite1">
+
+    <test name="Amazon Package">
+        <classes>
+            <class name="amazon.HomePageTest" />
+
+
+            </classes>
+    </test>
+</suite>
+

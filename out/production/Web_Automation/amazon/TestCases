@@ -1,0 +1,63 @@
+
+Amazon HomePage Test Cases:
+
+- Header:
+    1-  Verify the page title
+    2-  Verify Amazon Logo
+    3-  Verify "Select your address" Link functionality as expected
+    4-  Verify drop down menu functionality as expected
+    5-  Verify that the search box functionality as expected- Test Value: Flower
+    6-  Verify language setting drop down works as expected
+    7-  Verify "Best Sellers" Link functionality as expected
+    8-  Verify "Today's Deal" Link functionality as expected
+    9-  Verify "Prime" Link functionality as expected
+    10- Verify "Customer Service" Link functionality as expected
+    11- Verify "NewRelease" Link functionality as expected
+    12- Verify "Books" Link functionality as expected
+    13- Verify "Fashion" Link functionality as expected
+    14- Verify "Kindle Books" Link functionality as expected
+    15- Verify "Gift Cards" Link functionality as expected
+    16- Verify "Find A Gift" Link functionality as expected
+    17- Verify "Toys Games" Link functionality as expected
+    18- Verify "Amazon Home" Link functionality as expected
+    19- Verify "Amazon Pharmacy" Link functionality as expected
+    20- Verify "Computers" Link functionality as expected
+    21- Verify "Sell" Link functionality as expected
+
+
+-Hamburger Menu:
+    1-  Navigate to Prime Video -->  1-1-  Prime Video
+                                     1-2-  Included with Prime
+                                     1-3-  Prime Video Channels
+                                     1-4-  Rent or Buy
+                                     1-5-  Your Watchlist
+                                     1-6-  Purchases & Rentals
+                                     1-7-  Watch Anywhere
+                                     1-8-  Getting Started
+                                     1-9-  Amazon Originals
+                                     1-10- Kids
+                                     1-11- Coming soon
+
+    2-  Navigate to Amazon Music -->  2-1-  Amazon Music Unlimited
+                                     2-2-  Amazon Music HD
+                                     2-3-  Prime Music
+                                     2-4-  Free Streaming Music
+                                     2-5-  Podcasts
+                                     2-6-  Open Web Player
+                                     2-7-  CDs & Vinyl
+                                     2-8-  Download Store
+                                     2-9-  Artist Merch Shop
+
+    3-  Navigate to Echo & Alexa --> Echo Show 5
+    4-  Navigate to Fire Tablets --> Fire 7
+    5-  Navigate to Fire TV --> Fire TV Stick Lite
+    6-  Navigate to Kindle E-readers & Books --> Kindle Kids Edition
+    7-  Navigate to Audible Books & Originals -->
+    8-  Navigate to Appstore for Android -->
+
+
+-Footer:
+    1-  Navigate to "Careers" Link
+    2-  Navigate to "Blog" Link
+    3-  Navigate to "About Amazon" Link
+    4-  Navigate to
